@@ -14,7 +14,7 @@ I design, build and manage websites and online stores on WordPress, Shopify and 
     <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,php"/></td>
   </tr>
   <tr>
-    <td><b>CMS &amp; stores:</b></td>
+    <td><b>CMS:</b></td>
     <td><img height="40" src="https://skillicons.dev/icons?i=wordpress"/> <img src="https://img.shields.io/badge/Shopify-96bf48?style=for-the-badge&logo=shopify&logoColor=white"/> <img src="https://img.shields.io/badge/Salla-6d28d9?style=for-the-badge&logo=salla&logoColor=white"/></td>
   </tr>
   <tr>
