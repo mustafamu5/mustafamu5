@@ -8,5 +8,4 @@ I design, build and manage websites and online stores on WordPress, Shopify and 
 - Infrastructure: hosting, domains, Saudi payment gateways (Mada, STC Pay, Tabby, Tamara), performance and security
 
 ## Find me
-- Website: https://mustafamu.site
 - LinkedIn: https://www.linkedin.com/in/mustafa-mohamed-170041219
